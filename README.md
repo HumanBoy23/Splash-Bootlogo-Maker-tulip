@@ -11,7 +11,7 @@
 <li> Use ffmpeg or photoshop to convert images to *.bmp (Other image formats are not supported) </li>
 </ul>
 IF you get "FATAL_ERROR" warning, then it means files are missing. Redownload this tool
-and or check bmps folder all files like; boot,fastboot,unlocked,destroyed bmps
+and or check bmps folder all files like; boot, fastboot, unlocked, destroyed bmp files
 should be there or else the tool will not generate splash.img <br><br>
   
 If everything went as it is should then Your custom splash will be inside output 
