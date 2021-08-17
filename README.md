@@ -1,4 +1,4 @@
-Redmi Note 6 Pro Splash Maker Tool v1.0.17082021 by @HumanBoy23
+#Redmi Note 6 Pro Splash Maker Tool v1.0.17082021 by @HumanBoy23
 
 
 WARNING!! THIS TOOL IS ONLY FOR REDMI NOTE 6 PRO (tulip)
