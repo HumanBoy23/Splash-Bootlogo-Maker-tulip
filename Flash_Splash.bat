@@ -38,6 +38,7 @@ echo Now rebooting to bootloader (check if you see the fastboot image)
 timeout 8 /nobreak >nul
 fastboot reboot bootloader
 echo.&echo.
+timeout 8 /nobreak >nul
 echo Now rebooting to system (check for startup image)
 fastboot reboot
 timeout 5 /nobreak >nul
