@@ -10,12 +10,15 @@
 <li> Add your *.bmp files inside "bmps" folder and hit "Build_Splash.bat" </li>
 <li> Use ffmpeg or photoshop to convert images to *.bmp (Other image formats are not supported) </li>
 </ul>
+
+<h3> Requirements: </h3>
+<ul> <li> Adb, fastboot tool should be installed in your windows PC <br> <li>Your Tulip Device bootloader should be unlocked </li> </ul>
+
 IF you get "FATAL_ERROR" warning, then it means files are missing. Redownload this tool
 and or check bmps folder all files like; boot, fastboot, unlocked, destroyed bmp files
-should be there or else the tool will not generate splash.img <br><br>
+should be there or else the tool will not generate splash.img <br>
   
 If everything went as it is should then Your custom splash will be inside output 
 folder (splash_new.img). You can use "Flash_Splash.bat" to easily flash the splash
-
 
 <h3> This Tool is Free and anyone can modify and distribute it!! </h3>
