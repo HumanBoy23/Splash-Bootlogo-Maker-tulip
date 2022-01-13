@@ -1,5 +1,6 @@
 <h1> Redmi Note 6 Pro Splash Maker Tool v1.0.17082021 by @HumanBoy23 </h1>
 
+<h3> For both Windows and also for Termux for mobile or Linux </h3>
 
 <h3> WARNING!! THIS TOOL IS ONLY FOR REDMI NOTE 6 PRO (tulip) </h3>
 
@@ -12,7 +13,7 @@
 </ul>
 
 <h3> Requirements: </h3>
-<ul> <li> Adb, fastboot tool should be installed in your windows PC <br> <li>Your Tulip Device bootloader should be unlocked </li> </ul>
+<ul> <li> Adb, fastboot tool should be installed in your windows PC (Mobile version now available) <br> <li>Your Tulip Device bootloader should be unlocked </li> </ul>
 
 IF you get "FATAL_ERROR" warning, then it means files are missing. Redownload this tool
 and or check bmps folder all files like; boot, fastboot, unlocked, destroyed bmp files
