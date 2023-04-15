@@ -1,5 +1,0 @@
-v2.2 Changes:
-----------------------------------------------------------------
-Corrected syntax error on line 229
-
-Updated Instruction/Readme file
