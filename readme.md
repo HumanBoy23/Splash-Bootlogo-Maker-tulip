@@ -9,4 +9,4 @@ Windows: Simply run the cmd/bat file follow instructions given
 
 Enjoy!!
 
-<h3><a href="https://github.com/HumanBoy23/Splash-Bootlogo-Maker-tulip/releases/tag/v2">Download</a></h3>
+<h3><a href="https://github.com/HumanBoy23/Splash-Bootlogo-Maker-tulip/releases">Download</a></h3>
